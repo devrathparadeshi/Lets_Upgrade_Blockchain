@@ -1,0 +1,46 @@
+Question 1: What is your understanding of Blockchain?
+Answer: 
+	Blockchain is collection of various blocks which contains store data.
+Same data is store on multiple system which formed distributed data base and also it has his own
+identity (encrypted).Blockchain is decentralized technique which does not include any third party.
+
+Question 2:  What is the core problem Blockchain trying to solve?
+Answer:
+	1. Identity Theft
+	2. Managing And Protecting Patient Data in Health Care Organizations
+	3. Digital Copyright And Piracy
+	4. Government Systems And Public Sectors
+	5. Digital Copyright And Piracy
+	6. Managing And Protecting Patient Data in Health Care Organizations
+In short Blockchain is used for each and every sector were authenticity and decentralization is important.
+
+Question 3:  What are the few features which Blockchain will give you?
+Answer:
+	1. Cannot be Corrupted
+	2. Decentralized Technology
+	3. Enhanced Security
+	4. Distributed Ledgers
+	5. Faster Settlement
+	6. Automation Capability
+	7. Tamperproof
+
+Question 4:  What all things does a Block contain?
+Answer:
+	A block represents the ‘present’ and contains information about its past and future. 
+Each time a block is completed it becomes part of the past and gives way to a new block in the 
+blockchain. The completed block is a permanent record of transactions in the past and the new 
+transactions are recorded in the current one.Basically it consist of :
+	1. Block number
+	2. Data store in that block
+	3. Previous key
+	4. And current key
+	5. Mining
+
+Question 5:  How is the verifiability of Blockchain has been attained?
+Answer:
+	For example a document is created and store on multiple system.
+Now every block is store with same data in document.So each of system will have unique key for 
+block containing same data. In case of data is tried to change or some data is missing with any of system block
+then it can be verified with the help of unique key provided to every system. In this way verifiabilty in blockchain 
+is attained. And hence it makes it unhackable thing.
+	
